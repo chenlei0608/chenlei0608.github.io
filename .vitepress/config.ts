@@ -51,6 +51,7 @@ export default defineConfig({
             items: [
               { text: 'corepack', link: 'corepack' },
               { text: '第三季度技术分享', link: 'share-quarter-3' },
+              { text: '第四季度技术分享', link: 'share-quarter-4' },
               { text: 'Powershell 7', link: 'powershell7' },
               { text: 'console.log()', link: 'console-log' },
               { text: 'ts-share', link: 'ts-share' }
